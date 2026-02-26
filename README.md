@@ -13,8 +13,8 @@ I'm a passionate developer with a strong foundation in **Multiplatform Applicati
 - 🔭 I’m currently working on **automation tools & web applications**
 - 🌱 I’m currently learning **Cloud Computing & DevOps**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **Java, Python, JavaScript, or Odoo integration**
-- ⚡ Fun fact: I've scraped over **6,000 product images** in one go! 🤖
+- 💬 Ask me about **Java, Python, JavaScript, or PHP integration**
+
 
 ---
 
@@ -31,7 +31,6 @@ I'm a passionate developer with a strong foundation in **Multiplatform Applicati
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
@@ -64,7 +63,6 @@ I'm a passionate developer with a strong foundation in **Multiplatform Applicati
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### **Version Control & OS**
@@ -74,7 +72,6 @@ I'm a passionate developer with a strong foundation in **Multiplatform Applicati
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 ---
