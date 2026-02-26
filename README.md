@@ -57,25 +57,6 @@ I'm a passionate developer with a strong foundation in **Multiplatform Applicati
 
 ---
 
-## 📚 Education
-
-```javascript
-const education = {
-  degrees: [
-    "DAM - Multiplatform Application Development",
-    "DAW - Web Application Development"
-  ],
-  skills: [
-    "Object-Oriented Programming",
-    "Database Design (SQL & NoSQL)",
-    "Frontend & Backend Development",
-    "Software Architecture",
-    "API Design & Integration",
-    "DevOps Fundamentals"
-  ],
-  status: "Always learning 🚀"
-};
-
 ##📈 GitHub Analytics
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlitos6712&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlitos6712&layout=compact&langs_count=8&theme=tokyonight"/> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlitos6712&theme=tokyonight" alt="GitHub Streak"/> </p>
 
